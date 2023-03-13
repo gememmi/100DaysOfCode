@@ -103,3 +103,19 @@ https://www.linkedin.com/posts/em-daniels_100daysofcode-activity-703465162677465
 
 **Link(s) to work** :
 -https://www.youtube.com/watch?v=jH85McHenvw&ab_channel=freeCodeCamp.org
+
+### Day 13 3.8.23 Wednesday: 
+
+**Today's Progress** : worked on LeetCode with Raman, first time encountering using two reference points like heads and tails.
+
+**Thoughts** :  I am sooo thankfulf or Raman for showing me how to do some LeetCode problems and how to approach them
+
+**Link(s) to work** : https://www.youtube.com/watch?v=rlfsnRY0S9k&ab_channel=TerribleWhiteboard
+
+### Day 14, 3.11.23 Saturday: 
+
+**Today's Progress** : - Learned that constants in Python are declared with uppercase letters. Created a silly little game using while loops, conditional statements and input() function.
+
+**Thoughts** :  I love learning Python
+
+**Link(s) to work** : 
