@@ -114,8 +114,22 @@ https://www.linkedin.com/posts/em-daniels_100daysofcode-activity-703465162677465
 
 ### Day 14, 3.11.23 Saturday: 
 
-**Today's Progress** : - Learned that constants in Python are declared with uppercase letters. Created a silly little game using while loops, conditional statements and input() function.
+**Today's Progress** : - Learned that constants in Python are declared with uppercase letters, but it is not a convention that Python actually enforces. It create a constant variable which will have a value that we cannot change, we must import Final from the typing module adn then when we create a constant we would write it like so >>> IRONMAN_ATTACK_POWER: Final[int] = 250. Created a silly little game using while loops, conditional statements and input() function.
 
 **Thoughts** :  I love learning Python
 
 **Link(s) to work** : 
+
+## Day 14, 3.11.23 Saturday: 
+
+**Today's Progress** : - Learned that constants in Python are declared with uppercase letters, but it is not a convention that Python actually enforces. It create a constant variable which will have a value that we cannot change, we must import Final from the typing module adn then when we create a constant we would write it like so >>> IRONMAN_ATTACK_POWER: Final[int] = 250. Created a silly little game using while loops, conditional statements and input() function.
+
+**Thoughts** :  I love learning Python
+
+### Day 15 : I did more Python but I forgot to talk about it, though I did post about it
+
+**Today's Progress** : 
+
+**Thoughts** :  
+
+**Link(s) to work** :
