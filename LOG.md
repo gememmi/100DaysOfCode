@@ -128,8 +128,16 @@ https://www.linkedin.com/posts/em-daniels_100daysofcode-activity-703465162677465
 
 ### Day 15 : I did more Python but I forgot to talk about it, though I did post about it
 
-**Today's Progress** : 
+**Today's Progress** : learning python yayy
 
 **Thoughts** :  
 
 **Link(s) to work** :
+
+### Day 16: 3.15.23 Wednesday
+
+**Today's Progress** : Today I finished up on Lists and moved onto Tuples and Dictionaries. 
+Lists and tuples are similar except that tuples are not mutable. However if you want to add more element to a tuple, you can initialize a new variable containing what you want to add, and then another variable will literally + both tuples together. Tuples use () and can have mixed types of data. We can use if/else are lists and tuples to check in certain element exist. We can use for/in loops to iterate over the elements. Dictionaries are like object in Python, they contain key/value pairs. Using a for/in loop you can iterate over the keys specifically by using for subject in dictionary.key(): and use the same thing for values, so for element in marks.values(): and if you want to utilize both the key and value, you can do for key, value in dictionary.items(): You should use bracket notation to reassigne values to keys and to to add new pairs. When searching for a specific element that does not exist, it is best practice to use the .get("key") method because it will return none instead of an error that blocks your code from running.
+**Thoughts** :  
+I am feeling behind like always and feeling embarassed to post about this on LinkedIn, but we must be brave and we must show others our progress. It is MY progress, not theirs. And that is okay.
+**Link(s) to work** : just the same video on YouTube, Learning Python through Types.
