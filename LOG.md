@@ -141,3 +141,19 @@ Lists and tuples are similar except that tuples are not mutable. However if you 
 **Thoughts** :  
 I am feeling behind like always and feeling embarassed to post about this on LinkedIn, but we must be brave and we must show others our progress. It is MY progress, not theirs. And that is okay.
 **Link(s) to work** : just the same video on YouTube, Learning Python through Types.
+
+### Day 17 3.28.23 Tuesday: 
+
+**Today's Progress** : Finally started getting back in the game. I am proud of myself for coming into Flatiron today. Started working on my DSA with JavaScript structured class. I learned how to use built-in timer functions in my code so I can review how long it take to execute. Initialize a variable for performance.now() before and after running the function then subtract those two from one another and divide by 1000 to get the time passed to make sure it is in seconds, not milliseconds.
+
+**Thoughts** :  
+
+**Link(s) to work** :
+
+### Day 18 4.10.23 Monday: 
+
+**Today's Progress** : Learned how to use p5.js which is very beginner friendly and offeres a library of built-in functions to help create animations and sketches. Super cool!Create a little panda whose nose will become animated as the volume of the mp3 file changes. 
+
+**Thoughts** :  I will def be using this when tutoring and would like to learn more about it. 
+
+**Link(s) to work** : https://www.loom.com/share/05e451f1300641aa859035b805e674d4
