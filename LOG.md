@@ -157,3 +157,28 @@ I am feeling behind like always and feeling embarassed to post about this on Lin
 **Thoughts** :  I will def be using this when tutoring and would like to learn more about it. 
 
 **Link(s) to work** : https://www.loom.com/share/05e451f1300641aa859035b805e674d4
+
+
+### Day 19 4.17.23 Monday: 
+
+**Today's Progress** : Learn more about machine learning using Google's Teachable Machine which allows users to train a model using images, sounds, or postures. Once you have trained the model with the input and assigned the input labels, you can then plug in the URL for your model into any code you want. We created a simple snake game which would take in input from my webcam and move the snake based on that input. 
+
+**Thoughts** :  Machine learning is fascinating and I am so glad that they have created ways for beginners to really understand how machine learning works and a way for them to try it out myself. In this case, both me and my student were learning material we had never covered before. 
+
+**Link(s) to work** : https://www.loom.com/share/05e451f1300641aa859035b805e674d4
+
+### Day 20 4.17.23 Monday: 
+
+**Today's Progress** : Learned about generative art 
+
+**Thoughts** :  
+
+**Link(s) to work** : 
+
+### Day 21  5.2.23 Monday: 
+
+**Today's Progress** : learned about noise() and created more generative art
+
+**Thoughts** :  fun but I hate working with Nicole and I cannot wait until this is over
+
+**Link(s) to work** : 
